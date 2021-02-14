@@ -23,5 +23,6 @@ Este cliente RMI obtém o serviço disponibilizado pelo servidor, realizando a t
 # Funcionalidades
 
 - Obtenção do serviço RMI;
-- Troca de dados através de RMI;
-- Receção de mensagens assincronas.
+- Registo como cliente RMI (registo na base de dados);
+- Receção de mensagens assincronas (apenas de RMI).
+- Envio de mensagens por broadcast para clientes RMI e não RMI.
